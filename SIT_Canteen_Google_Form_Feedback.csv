@@ -1,0 +1,31 @@
+Student_Staff_ID,FOOD ITEM,DATE,Canteen_Feedback,Sentiment_Score
+STU2026069,Samosa,2026-10-01,"The samosa was crispy and hot, really loved it!",0.82
+STU2026093,Veg Thali,2026-10-01,Thali had good variety and tasted homemade. Very satisfied.,0.77
+STU2026365,Veg Biryani,2026-10-01,Biryani was flavourful and the portion size was great.,0.75
+STU2026024,Pav Bhaji,2026-10-02,Long waiting time and the bhaji was too salty.,-0.58
+STU2026277,Upma,2026-10-02,"Upma was acceptable, portion was a bit small.",0.05
+STU2026204,Maggi,2026-10-03,Maggi was hot and just the way I like it.,0.57
+STU2026281,Masala Dosa,2026-10-03,"Dosa was perfectly crisp, chutney was fresh and tasty.",0.86
+STU2026031,Paneer Wrap,2026-10-03,"Paneer wrap was fresh and filling, good value for money.",0.69
+STU2026293,Chole Bhature,2026-10-05,"Chole bhature were soft and tasty, great lunch.",0.69
+STU2026033,Maggi,2026-10-05,"Maggi was average, could use more masala.",-0.03
+STU2026114,Pav Bhaji,2026-10-06,Pav bhaji was delicious and the butter was just right.,0.86
+STU2026286,Vada Pav,2026-10-06,"Vada pav was spicy and fresh, best snack on campus.",0.80
+STF0215,Cold Coffee,2026-10-06,Cold coffee was refreshing and well made.,0.69
+STF0350,Chole Bhature,2026-10-06,Chole was decent but the bhature were a bit oily.,0.01
+STU2026296,Veg Thali,2026-10-07,"Food was fine, but the service was a little slow.",-0.02
+STU2026097,Fried Rice,2026-10-07,Fried rice was well cooked and the staff was polite.,0.58
+STU2026191,Chai,2026-10-07,"Chai was just perfect, great taste and served hot.",0.77
+STU2026050,Masala Dosa,2026-10-07,"Loved the dosa again, consistent quality every time.",0.85
+STU2026300,Idli Sambar,2026-10-08,"Soft idlis and tasty sambar, a great breakfast option.",0.78
+STU2026074,Chai,2026-10-08,"Chai was watery and lukewarm, not worth the price.",-0.56
+STF0158,French Fries,2026-10-08,"Fries were okay, average taste for the price.",0.09
+STU2026298,Samosa,2026-10-08,"Samosa was cold and oily, very disappointing.",-0.67
+STU2026149,Veg Sandwich,2026-10-09,"Fresh sandwich with good filling, quick service too.",0.66
+STU2026328,Veg Sandwich,2026-10-09,"Sandwich was okay, nothing special but edible.",0.02
+STU2026289,Misal Pav,2026-10-09,"Misal was spicy and authentic, loved the taste.",0.77
+STU2026026,Maggi,2026-10-10,Maggi was overcooked and the plate was not clean.,-0.68
+STU2026317,Poha,2026-10-10,"Poha was light and tasty, perfect morning meal.",0.67
+STU2026061,Chole Bhature,2026-10-11,"Too oily and heavy, felt unwell after eating.",-0.74
+STU2026287,Veg Biryani,2026-10-11,Biryani was bland and the rice was undercooked.,-0.74
+STU2026053,Upma,2026-10-12,"Upma was fresh and well seasoned, good start to the day.",0.61
